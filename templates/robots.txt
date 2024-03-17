@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /static/
+Sitemap: https://mylearningcurve.org/sitemap.xml
