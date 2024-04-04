@@ -1,0 +1,10 @@
+xmltodict
+jinja2
+catilo
+requests
+rcssmin
+rjsmin
+markdown
+Pillow
+beautifulsoup4
+lxml
